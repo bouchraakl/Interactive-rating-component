@@ -29,5 +29,5 @@ Users should be able to:
 
 
 ### Links
-- Live Site URL: 
+- Live Site URL: https://bouchraakl.github.io/Interactive-rating-component/
 
