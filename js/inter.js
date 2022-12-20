@@ -2,7 +2,7 @@ let nums = document.querySelectorAll(".nums");
 let btn = document.querySelector('button');
 let pop = document.querySelector('.pop')
 let body = document.querySelector('body');
-let num = document.querySelector('.num');
+let num = document.querySelector('.numm');
 
 let current;
 for (let index = 0; index < nums.length; index++) {
@@ -24,7 +24,7 @@ body.insertAdjacentHTML('afterbegin',`
 <picture>
 <img class='imgtwo' src="./images/illustration-thank-you.svg" alt="thanks">
 </picture>
-<p class="headertwo">You selected <span class"num">${current}</span> out of 5</p>
+<p class="headertwo">You selected <span class"numm">${current}</span> out of 5</p>
 <p class="discp discptwo"> We appreciate you taking the time to give a rating. If you ever need more support,don't hesitate to get in touch</p>
 </section>
 `)
